@@ -3,9 +3,9 @@
 This repository contains the frontend web application for the **CreditSea Loan Management System (LMS)**. Built with Next.js and Tailwind CSS, it provides dedicated, secure portals for borrowers and loan executives.
 
 ## 🚀 Live Demo
-* **Website:** [Insert your Vercel URL here]
-* **Backend API Repo:** [Insert link to your backend repo]
-* **Video Walkthrough:** [Insert your YouTube/Drive Link here]
+* **Website:** https://creditsea-frontend-orcin.vercel.app/
+* **Backend API Repo:** https://github.com/554Tejas/creditsea-backend
+* **Video Walkthrough:** https://drive.google.com/file/d/19jxYy9PxI83Er0hrQ667x-_Vk98o6peQ/view?usp=sharing
 
 ## ✨ Key Features
 * **Role-Specific Dashboards:** Custom UI layouts for Borrowers, Sanctioning, Disbursement, and Collections.
