@@ -32,7 +32,7 @@ To explore the different role-based portals, use the following credentials. All 
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/yourusername/creditsea-frontend.git
+git clone https://github.com/554Tejas/creditsea-frontend.git
 cd creditsea-frontend
 npm install
 ```
